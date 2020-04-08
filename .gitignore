@@ -145,3 +145,6 @@ $RECYCLE.BIN/
 *.lnk
 
 */target
+*/build
+*/*/build
+*/dist

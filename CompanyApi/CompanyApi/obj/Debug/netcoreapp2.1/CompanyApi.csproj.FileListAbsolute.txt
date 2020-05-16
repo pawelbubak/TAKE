@@ -1,0 +1,13 @@
+C:\Users\pawel\source\repos\CompanyApi\CompanyApi\bin\Debug\netcoreapp2.1\CompanyApi.deps.json
+C:\Users\pawel\source\repos\CompanyApi\CompanyApi\bin\Debug\netcoreapp2.1\CompanyApi.runtimeconfig.json
+C:\Users\pawel\source\repos\CompanyApi\CompanyApi\bin\Debug\netcoreapp2.1\CompanyApi.runtimeconfig.dev.json
+C:\Users\pawel\source\repos\CompanyApi\CompanyApi\bin\Debug\netcoreapp2.1\CompanyApi.dll
+C:\Users\pawel\source\repos\CompanyApi\CompanyApi\bin\Debug\netcoreapp2.1\CompanyApi.pdb
+C:\Users\pawel\source\repos\CompanyApi\CompanyApi\obj\Debug\netcoreapp2.1\CompanyApi.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\CompanyApi\CompanyApi\obj\Debug\netcoreapp2.1\CompanyApi.RazorAssemblyInfo.cache
+C:\Users\pawel\source\repos\CompanyApi\CompanyApi\obj\Debug\netcoreapp2.1\CompanyApi.RazorAssemblyInfo.cs
+C:\Users\pawel\source\repos\CompanyApi\CompanyApi\obj\Debug\netcoreapp2.1\CompanyApi.AssemblyInfoInputs.cache
+C:\Users\pawel\source\repos\CompanyApi\CompanyApi\obj\Debug\netcoreapp2.1\CompanyApi.AssemblyInfo.cs
+C:\Users\pawel\source\repos\CompanyApi\CompanyApi\obj\Debug\netcoreapp2.1\CompanyApi.RazorTargetAssemblyInfo.cache
+C:\Users\pawel\source\repos\CompanyApi\CompanyApi\obj\Debug\netcoreapp2.1\CompanyApi.dll
+C:\Users\pawel\source\repos\CompanyApi\CompanyApi\obj\Debug\netcoreapp2.1\CompanyApi.pdb

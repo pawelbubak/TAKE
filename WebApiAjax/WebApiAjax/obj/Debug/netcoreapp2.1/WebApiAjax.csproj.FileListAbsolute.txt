@@ -1,0 +1,13 @@
+C:\Users\pawel\source\repos\WebApiAjax\WebApiAjax\bin\Debug\netcoreapp2.1\WebApiAjax.deps.json
+C:\Users\pawel\source\repos\WebApiAjax\WebApiAjax\bin\Debug\netcoreapp2.1\WebApiAjax.runtimeconfig.json
+C:\Users\pawel\source\repos\WebApiAjax\WebApiAjax\bin\Debug\netcoreapp2.1\WebApiAjax.runtimeconfig.dev.json
+C:\Users\pawel\source\repos\WebApiAjax\WebApiAjax\bin\Debug\netcoreapp2.1\WebApiAjax.dll
+C:\Users\pawel\source\repos\WebApiAjax\WebApiAjax\bin\Debug\netcoreapp2.1\WebApiAjax.pdb
+C:\Users\pawel\source\repos\WebApiAjax\WebApiAjax\obj\Debug\netcoreapp2.1\WebApiAjax.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\WebApiAjax\WebApiAjax\obj\Debug\netcoreapp2.1\WebApiAjax.RazorAssemblyInfo.cache
+C:\Users\pawel\source\repos\WebApiAjax\WebApiAjax\obj\Debug\netcoreapp2.1\WebApiAjax.RazorAssemblyInfo.cs
+C:\Users\pawel\source\repos\WebApiAjax\WebApiAjax\obj\Debug\netcoreapp2.1\WebApiAjax.AssemblyInfoInputs.cache
+C:\Users\pawel\source\repos\WebApiAjax\WebApiAjax\obj\Debug\netcoreapp2.1\WebApiAjax.AssemblyInfo.cs
+C:\Users\pawel\source\repos\WebApiAjax\WebApiAjax\obj\Debug\netcoreapp2.1\WebApiAjax.RazorTargetAssemblyInfo.cache
+C:\Users\pawel\source\repos\WebApiAjax\WebApiAjax\obj\Debug\netcoreapp2.1\WebApiAjax.dll
+C:\Users\pawel\source\repos\WebApiAjax\WebApiAjax\obj\Debug\netcoreapp2.1\WebApiAjax.pdb
